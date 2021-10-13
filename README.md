@@ -3,7 +3,8 @@
 
 ---
 
-<p align="center"><img src="https://images.unsplash.com/photo-1534972195531-d756b9bfa9f2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80" alt="cover"></p>
+
+<p align="center"><img src="https://user-images.githubusercontent.com/59165595/137180500-362dbf07-9b00-48ec-ac41-e09cc9ee01aa.jpg" alt="cover"></p>
 
 
 <p align="center">
@@ -48,10 +49,7 @@
         src="https://github-readme-stats.vercel.app/api/wakatime?username=vibuverma&hide_border=true&bg_color=232e48&area=true&text_color=ffffff&custom_title=Last+Week+be+like+;)&title_color=ffffff&layout=compact"
       />
   </p>
-  
-  
 
-  
 ---
 <h4 align="left">🎓 Languages, Tools & Technologies:</h4>
 <p align="left">
