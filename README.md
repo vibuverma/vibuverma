@@ -1,71 +1,82 @@
-<div align="center">
-<img width="100%" height = "250px" src="https://images.unsplash.com/photo-1534972195531-d756b9bfa9f2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80" alt="cover" />
-</div>
+<h3 align="center"> Hey Everyone!</h3>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=vibuverma&style=flat-square"></p>
 
-<h1 align='center'> Hello World <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
-<p align='center'>
+---
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=vibuverma.vibuverma)
+<p align="center"><img src="https://images.unsplash.com/photo-1534972195531-d756b9bfa9f2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80" alt="cover"></p>
 
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vaibhav-verma-01">
+    <img src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&labelColor=0A66C2&logo=linkedin&logoColor=white">
+   <a/>
+  <a href="https://www.hackerrank.com/vaibhavverma016">
+    <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&labelColor=2EC866&logo=hackerrank&logoColor=white">
+   <a/>
+   <a href="mailto:vaibhavverma016@gmail.com">
+    <img src="https://img.shields.io/badge/-GMail-EA4335?style=flat-square&labelColor=EA4335&logo=gmail&logoColor=white">
+   <a/>
 </p>
-<div size='20px'> Hi! My name is Vaibhav Verma. Thank You for taking the time to view my GitHub Profile :smile: 
-<h2 > Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<p >
-<a href = 'https://www.linkedin.com/in/vaibhav-verma-01'> <img width = '44px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.github.com/vibuverma'> <img width = '44px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
+---
+
+<h4 align="left"> Hi! My name is Vaibhav Verma. Thank You for taking the time to view my GitHub Profile :smiley: </h4>
+- :mortar_board: Fourth Year Computer Science and Engineering Undergraduate.
+- :computer: Started with Machine Learning and Data Science, now exploring MLOps.
+- 🐱‍💻 Machine Learning Intern [@Intrigd](https://intrigd.co/).
+
+---
+
+<h4 align="left">💹 Github Stats</h4>
+ 
+   <p align="center">
+      <img
+        height="160em"
+        src="https://github-readme-stats.vercel.app/api?username=descifrador17&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&bg_color=232e48&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
+      />
+    <img
+        height="160em"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=vibuverma&show_icons=true&hide_border=true&layout=compact&langs_count=6&theme=dark&bg_color=232e48&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
+      />
+      <img
+        width="750em"
+        src="https://activity-graph.herokuapp.com/graph?username=vibuverma&theme=react-dark&hide_border=true&bg_color=232e48&area=true"
+      />
+	<img
+        width="750em"
+        src="https://github-readme-stats.vercel.app/api/wakatime?username=vibuverma&hide_border=true&bg_color=232e48&area=true&text_color=ffffff&custom_title=Last+Week+be+like+;)&title_color=ffffff&layout=compact"
+      />
+  </p>
+  
+  
+
+  
+---
+<h4 align="left">🎓 Languages, Tools & Technologies:</h4>
+<p align="left">
+	<a href= https://www.python.org/ target="_blank"> <img  src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'
+    alt="python" width="25" height="25" /> </a> &nbsp
+	<a href= https://scikit-learn.org/stable/ target="_blank"> > <img  src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg' alt="scikit-learn" width="25" height="25" /> </a>&nbsp
+	<a href= https://www.sqlite.org/index.html target="_blank"> <img  src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg' alt="sqlite" width="25" height="25" /> </a>&nbsp
+	<a href= https://aws.amazon.com/ target="_blank"> > <img  src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/aws.svg' 
+    alt="aws" width="25" height="25" /> </a>&nbsp
+	<a href= https://www.djangoproject.com/ target="_blank"> <img  src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/django.svg' alt="django" width="25" height="25" /> </a>&nbsp
+	<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="25" height="25" /> </a>&nbsp
+	<a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="25" height="25" /> </a>&nbsp
+	<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="25" height="25" /> </a>&nbsp
+	<a href= https://www.docker.com/ target="_blank"> <img  src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg' alt="docker" width="25" height="25" /> </a>&nbsp
+	<a href= https://flask.palletsprojects.com/en/2.0.x/ target="_blank"> <img  src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flask.svg' alt="flask" width="25" height="25" /> </a>&nbsp
+	<a href= https://cloud.google.com/ target="_blank"> <img  src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/gcp.svg' alt="gcp" width="25" height="25" /> </a>&nbsp
+	<a href= https://hadoop.apache.org/ target="_blank"> <img  src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/hadoop.svg' alt="hadoop" width="25" height="25" /> </a>&nbsp
+	<a href= https://www.jenkins.io/ target="_blank"> <img  src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/jenkins.svg' alt="jenkins" width="25" height="25" /> </a>&nbsp
+	<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="25" height="25" /> </a>&nbsp
+	<a href= https://www.kaggle.com/ target="_blank"> <img  src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kaggle.svg' alt="kaggle" width="25" height="25" /> </a>&nbsp
+	<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="25" height="25" /> </a>&nbsp
+	<a href= https://kubernetes.io/ target="_blank"> <img  src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kubernetes.svg' alt="kubernetes" width="25" height="25" /> </a>&nbsp
+	<a href= https://www.mongodb.com/ target="_blank"> <img  src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg' alt="mongodb" width="25" height="25" /> </a>&nbsp
+	<a href= https://www.mysql.com/ target="_blank"> <img  src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg' alt="mysql" width="25" height="25" /> </a>&nbsp
+	<a href= https://www.nginx.com/ target="_blank"> <img  src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nginx.svg' alt="ngnix" width="25" height="25" /> </a>&nbsp
+	<a href= https://www.tensorflow.org/ target="_blank"> <img  src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tensorflow.svg' alt="tensorflow" width="25" height="25" /> </a>&nbsp
 </p>
-</div>
 
-<h2 > Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 50px> </h2>
-<p >
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tensorflow.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flask.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/opencv.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/heroku.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postman.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/django.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/hadoop.svg'>
-<br>
-</p>
-<div align='center'>
-
-</div>
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
-
-- 🔭 I’m currently working on Data Science Skills.
-
-- 🌱 I’m currently learning Machine Learning, Deep Learning, Advanced Natural Language Processing and various Web Frameworks.
-
-
-- 👯 I’m looking to collaborate on Projects related to Machine Learning/Data Science,  Databases. 
-
-- 💬 Talk to me about new libraries in python that makes things easy and simplified for beginners, research papers published in the domain of Data Science. 
-
-
-<h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 100px> </h2>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@vibuverma&compact=True"/>
-</a>
-<br>
-
-
-
-<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='75px'> </h2>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=vibuverma&count_private=true&show_icons=true&theme=dark" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vibuverma&theme=dark" />
-</a>
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-
-
-
+---
