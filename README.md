@@ -21,6 +21,7 @@
 ---
 
 <h4 align="left"> Hi! My name is Vaibhav Verma. Thank You for taking the time to view my GitHub Profile :smiley: </h4>
+
 - :mortar_board: Fourth Year Computer Science and Engineering Undergraduate.
 - :computer: Started with Machine Learning and Data Science, now exploring MLOps.
 - 🐱‍💻 Machine Learning Intern [@Intrigd](https://intrigd.co/).
