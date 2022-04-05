@@ -27,6 +27,14 @@
 - :computer: Started with Machine Learning and Data Science, now exploring MLOps.
 <!-- - 🐱‍💻 Machine Learning Intern [@Intrigd](https://intrigd.co/). -->
 
+
+---
+<p align="center">
+<img src="https://github.com/vibuverma/vibuverma/blob/output/github-contribution-grid-snake.gif" alt="snake">
+</center>
+</p>
+
+
 ---
 
 <h4 align="left">💹 Github Stats</h4>
