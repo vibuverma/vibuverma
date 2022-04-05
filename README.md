@@ -25,7 +25,7 @@
 
 - :mortar_board: Fourth Year Computer Science and Engineering Undergraduate.
 - :computer: Started with Machine Learning and Data Science, now exploring MLOps.
-<!-- - 🐱‍💻 Machine Learning Intern [@Intrigd](https://intrigd.co/). -->
+- 🐱‍💻 Devops Intern [@CRMNext](https://www.crmnext.com/).
 
 
 ---
