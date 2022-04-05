@@ -29,6 +29,7 @@
 
 
 ---
+<h5 align="left"> Watch my contribution graph get eaten by the snake 🐍 </h5>
 <p align="center">
 <img src="https://github.com/vibuverma/vibuverma/blob/output/github-contribution-grid-snake.gif" alt="snake">
 </center>
