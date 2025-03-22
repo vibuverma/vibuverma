@@ -33,21 +33,21 @@ Beyond DevOps, I have a strong background and interest in **Machine Learning (ML
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats  
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vibuverma&hide_border=true&show_icons=true&count_private=true&theme=dark">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vibuverma&layout=compact&langs_count=6&theme=dark">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vibuverma&hide_border=true&show_icons=true&count_private=true&theme=radical&layout=compact">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vibuverma&layout=compact&langs_count=6&theme=radical&hide_border=true">
 </p>
 
 ---
 
-### ⏳ Last Week Be Like...   
+### ⏳ Last Week Be Like... 😉  
 
 <p align="center">
   <img
-    width="750em"
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=vibuverma&hide_border=true&bg_color=232e48&area=true&text_color=ffffff&custom_title=Last+Week+be+like+;)&title_color=ffffff&layout=compact"
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=vibuverma&hide_border=true&theme=radical&layout=compact"
   />
 </p>
 
